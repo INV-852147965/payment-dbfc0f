@@ -1,8 +1,10 @@
 15-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: mlbfan57@yahoo.com, dmkmwk@aol.com
-At: 2026-09-15 21:58:12
-Id: QcJxqGu8
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: gvhosale@aol.com, ckday61@yahoo.com
+At: 2026-09-15 21:58:51
+Id: Th1xjjHS
